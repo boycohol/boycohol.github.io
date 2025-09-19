@@ -1,4 +1,7 @@
-title: "About me"
+---
+title: "About Me"
+---
+
 
 # 👋 Hi, I'm Tuan Anh NGUYEN  
 
