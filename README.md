@@ -3,7 +3,7 @@ layout: default
 title: "About Me"
 permalink: /
 ---
-![Tuan Anh NGUYEN](assets/images/me.jpg)
+![Tuan Anh NGUYEN]("./assets/images/id_photo.jpg")
 
 
 # 👋 Hi, I'm Tuan Anh NGUYEN  
