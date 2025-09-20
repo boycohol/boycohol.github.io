@@ -1,8 +1,9 @@
 ---
 layout: default
 title: "About Me"
-permalink: /about/
+permalink: /
 ---
+![Tuan Anh NGUYEN](assets/images/me.jpg)
 
 
 # 👋 Hi, I'm Tuan Anh NGUYEN  
