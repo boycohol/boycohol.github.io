@@ -1,9 +1,3 @@
----
-layout: default
-title: "About Me"
-permalink: /
----
-
 # 👋 Hi, I'm Tuan Anh NGUYEN  
 
 🎓 Master’s student in **Data Science and Artificial Intelligence** at [Université Côte d'Azur](https://univ-cotedazur.eu/), passionate about **Machine Learning, Deep Learning, and Federated Learning**.  
